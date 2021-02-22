@@ -1209,3 +1209,8 @@ width: 6px;
   /* .form-align{
     margin: 0.75rem;
   } */
+
+  #technologies-icon i{
+   color: #0563bb;
+  
+  }
