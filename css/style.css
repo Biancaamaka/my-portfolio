@@ -1214,3 +1214,18 @@ width: 6px;
    color: #0563bb;
   
   }
+
+   .whatsapp-livechat{
+    position: fixed;
+    z-index: 1000;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25d366;
+    font-size: larger;
+    text-align: center;
+    /* box-shadow: 15px 35px 15px black; */
+    border-radius: 50px;
+    border-color: #25d366;
+  }  
